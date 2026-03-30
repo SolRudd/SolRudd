@@ -54,5 +54,5 @@ I’m interested in shipping things that are useful, credible, sharp, and actual
 
 - [solrudd.co.uk](https://solrudd.co.uk)
 - [buzzboost.co.uk](https://buzzboost.co.uk)
-- [greentracer.app](https://greentracer.app)
+- [greentracer.app](https://greentracer.org)
 - [sol@buzzboost.co.uk](mailto:sol@buzzboost.co.uk)
