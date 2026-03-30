@@ -1,28 +1,58 @@
+# Sol Rudd
 
-👋 Hey there, I’m Sol Rudd
-Full-Stack Software Engineer | JavaScript • React • Node.js • WordPress • A
-I’m passionate about turning ideas into fully functional products — from landing pages to scalable web apps. I love solving real problems with clean, modern code and constantly exploring new technologies to improve my craft.
+I build products, websites, AI workflows, automation systems, and technical tools.
 
-🚀 What I’m Working On
-Building full-stack apps with React, Node.js, and Express
-Exploring AI integrations and automation tools
-Designing responsive, performance-driven WordPress and Next.js websites
+Founder-led. Design-aware. Production-minded.
 
-🌱 Currently Learning
-Advanced React patterns & API architecture
-TypeScript for cleaner, safer codebases
-Best practices for scalable cloud deployment (Vercel, Render, DigitalOcean)
+Most of my work sits at the overlap of:
+- product thinking
+- frontend execution
+- systems design
+- commercial clarity
 
-💬 Let’s Collaborate
+I’m interested in shipping things that are useful, credible, sharp, and actually live.
 
-I’m always open to collaborating on open-source projects or creative web apps that help me grow as a developer and contribute to something meaningful.
-📫 Reach Me
+---
 
-Twitter: @SolRudd
+## Active builds
 
-Email: sol@buzzboost.co.uk
+- **GreenTracer** → carbon footprint analysis for websites
+- **GardenVisionary** → realistic AI exterior/property visualisation
+- **Jigma** → screenshot-to-prompt tooling for frontend workflows
+- **BuzzBoost** → websites, landing pages, systems, and founder-led delivery
 
-Portfolio: buzzboost.co.uk
+---
 
-⚡ Fun Fact
-I started in digital marketing, built a creative agency — and fell in love with code along the way. Now I’m combining both worlds to build fast, impactful digital experiences.
+## I usually work on
+
+- premium websites that don’t look templated
+- product interfaces with stronger hierarchy and structure
+- AI-assisted internal tools
+- automation and workflow systems
+- positioning-led frontend rebuilds
+- technical implementation that still respects design
+
+---
+
+## Core stack
+
+`React` `Next.js` `Vite` `Tailwind` `TypeScript` `Node.js` `Supabase` `Docker` `Cloudflare` `Vercel` `OpenAI` `Claude` `Gemini` `n8n` `WordPress`
+
+---
+
+## Principles
+
+- Ship real things
+- Avoid generic SaaS aesthetics
+- Prefer strong decisions over vague options
+- Keep systems lean unless complexity is justified
+- Build for production, not applause
+
+---
+
+## Find me
+
+- [solrudd.co.uk](https://solrudd.co.uk)
+- [buzzboost.co.uk](https://buzzboost.co.uk)
+- [greentracer.app](https://greentracer.app)
+- [sol@buzzboost.co.uk](mailto:sol@buzzboost.co.uk)
