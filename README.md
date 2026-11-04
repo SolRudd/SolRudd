@@ -1,58 +1,47 @@
 # Sol Rudd
+### Founder. Developer. From idea to market.
 
-I build products, websites, AI workflows, automation systems, and technical tools.
+```js
+const sol = {
+  building: ["web", "iOS", "games", "AI", "application security"],
+  business: "BuzzBoost Digital",
+  mindset: "Build it. Test it. Take it to market.",
+  nextToLearn: "Rust",
+  offline: "Probably saying hello to a dog",
+};
+```
 
-Founder-led. Design-aware. Production-minded.
+I’m Sol, founder of [BuzzBoost Digital](https://buzzboost.co.uk), a UK digital marketing and development agency. I love coding, experimenting and solving real problems, then working out how to get what I build into people’s hands.
 
-Most of my work sits at the overlap of:
-- product thinking
-- frontend execution
-- systems design
-- commercial clarity
+Agency ownership keeps my development grounded in the whole journey: a useful idea, thoughtful UX, reliable implementation, clear positioning and customer acquisition.
 
-I’m interested in shipping things that are useful, credible, sharp, and actually live.
+## What I build
 
----
+Websites, web applications and custom WordPress tools. iOS apps and mobile products. Games with Godot and Blender workflows. AI integrations, agents, automation and internal tools. Application security and defensive tooling.
 
-## Active builds
+## Selected work
 
-- **GreenTracer** → carbon footprint analysis for websites
-- **GardenVisionary** → realistic AI exterior/property visualisation
-- **Jigma** → screenshot-to-prompt tooling for frontend workflows
-- **BuzzBoost** → websites, landing pages, systems, and founder-led delivery
+These projects span different stages of development. A mention here does not mean the source is public or the product is generally available.
 
----
+| Project | Focus | Stage |
+| :--- | :--- | :--- |
+| **GreenTracer** | Website carbon analysis, reports and badges, with an iOS app in development. | Web product with ongoing development; iOS prototype |
+| **Ruddiment** | Application-aware defence, starting with WordPress runtime protection. | Private beta |
+| **Pixel Talks** | Image optimisation tooling and a WordPress plugin. | Prototype |
+| **Elastic Escape** | An elastic gecko platformer about stretching, catching and movement. | Playable in development |
+| **Patchwork** | A farming game about growing, clearing, discovery and land expansion. | Playable prototype |
 
-## I usually work on
+### Public code to explore
 
-- premium websites that don’t look templated
-- product interfaces with stronger hierarchy and structure
-- AI-assisted internal tools
-- automation and workflow systems
-- positioning-led frontend rebuilds
-- technical implementation that still respects design
+- [LoveCookies](https://github.com/SolRudd/lovecookies): an embeddable consent-management SDK with a banner, preferences and a framework-independent API. A work in progress, with limitations documented in its README.
+- [GardenVision AI](https://github.com/SolRudd/property-vision-ai): an outdoor-space visualisation MVP connecting AI-generated concepts with a lead-generation workflow.
 
----
+## How I work
 
-## Core stack
+Start with a real problem and keep the first version focused. Give design and usability the same attention as the code. Test the important journeys, learn from feedback and improve what people actually use.
 
-`React` `Next.js` `Vite` `Tailwind` `TypeScript` `Node.js` `Supabase` `Docker` `Cloudflare` `Vercel` `OpenAI` `Claude` `Gemini` `n8n` `WordPress`
+Building is only part of the job. Positioning, marketing and consistent maintenance turn an idea into a product people can find, understand and keep using.
 
----
+## Let’s talk
 
-## Principles
-
-- Ship real things
-- Avoid generic SaaS aesthetics
-- Prefer strong decisions over vague options
-- Keep systems lean unless complexity is justified
-- Build for production, not applause
-
----
-
-## Find me
-
-- [solrudd.co.uk](https://solrudd.co.uk)
-- [buzzboost.co.uk](https://buzzboost.co.uk)
-- [greentracer.app](https://greentracer.org)
-- [sol@buzzboost.co.uk](mailto:sol@buzzboost.co.uk)
+[**BuzzBoost Digital**](https://buzzboost.co.uk) · [**hello@buzzboost.co.uk**](mailto:hello@buzzboost.co.uk)
