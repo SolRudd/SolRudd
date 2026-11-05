@@ -11,7 +11,7 @@ const sol = {
 };
 ```
 
-I’m Sol, a UK developer and product builder, and founder of [BuzzBoost Digital](https://buzzboost.co.uk). I love coding, experimenting and solving real problems, then working out how to get what I build into people’s hands.
+I’m Sol, a UK developer and product builder, and founder of [BuzzBoost Digital](https://buzzboost.co.uk) ([@BuzzBoostDigital](https://github.com/BuzzBoostDigital)). I love coding, experimenting and solving real problems, then working out how to get what I build into people’s hands.
 
 My work spans websites, web applications, custom WordPress development, iOS apps, mobile games, AI integrations, agents, automation and defensive security tooling. Agency ownership connects that hands-on development with UX, positioning, marketing and customer acquisition.
 
