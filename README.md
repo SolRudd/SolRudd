@@ -1,5 +1,5 @@
 # Sol Rudd
-### Founder. Developer. From idea to market.
+### Developer and product builder.
 
 ```js
 const sol = {
@@ -11,30 +11,19 @@ const sol = {
 };
 ```
 
-I’m Sol, founder of [BuzzBoost Digital](https://buzzboost.co.uk), a UK digital marketing and development agency. I love coding, experimenting and solving real problems, then working out how to get what I build into people’s hands.
+I’m Sol, a UK developer and product builder, and founder of [BuzzBoost Digital](https://buzzboost.co.uk). I love coding, experimenting and solving real problems, then working out how to get what I build into people’s hands.
 
-Agency ownership keeps my development grounded in the whole journey: a useful idea, thoughtful UX, reliable implementation, clear positioning and customer acquisition.
-
-## What I build
-
-Websites, web applications and custom WordPress tools. iOS apps and mobile products. Games with Godot and Blender workflows. AI integrations, agents, automation and internal tools. Application security and defensive tooling.
+My work spans websites, web applications, custom WordPress development, iOS apps, mobile games, AI integrations, agents, automation and defensive security tooling. Agency ownership connects that hands-on development with UX, positioning, marketing and customer acquisition.
 
 ## Selected work
 
-These projects span different stages of development. A mention here does not mean the source is public or the product is generally available.
-
 | Project | Focus | Stage |
 | :--- | :--- | :--- |
-| **GreenTracer** | Website carbon analysis, reports and badges, with an iOS app in development. | Web product with ongoing development; iOS prototype |
+| [**GreenTracer**](https://greentracer.org) | Website carbon analysis, reports and badges, with an iOS app in development. | Web product with ongoing development; iOS prototype |
 | **Ruddiment** | Application-aware defence, starting with WordPress runtime protection. | Private beta |
 | **Pixel Talks** | Image optimisation tooling and a WordPress plugin. | Prototype |
 | **Elastic Escape** | An elastic gecko platformer about stretching, catching and movement. | Playable in development |
 | **Patchwork** | A farming game about growing, clearing, discovery and land expansion. | Playable prototype |
-
-### Public code to explore
-
-- [LoveCookies](https://github.com/SolRudd/lovecookies): an embeddable consent-management SDK with a banner, preferences and a framework-independent API. A work in progress, with limitations documented in its README.
-- [GardenVision AI](https://github.com/SolRudd/property-vision-ai): an outdoor-space visualisation MVP connecting AI-generated concepts with a lead-generation workflow.
 
 ## How I work
 
@@ -42,6 +31,6 @@ Start with a real problem and keep the first version focused. Give design and us
 
 Building is only part of the job. Positioning, marketing and consistent maintenance turn an idea into a product people can find, understand and keep using.
 
-## Let’s talk
+## Find me
 
-[**BuzzBoost Digital**](https://buzzboost.co.uk) · [**hello@buzzboost.co.uk**](mailto:hello@buzzboost.co.uk)
+[**solrudd.co.uk**](https://solrudd.co.uk) · [**sol@buzzboost.co.uk**](mailto:sol@buzzboost.co.uk) · [**BuzzBoost Digital**](https://buzzboost.co.uk)
